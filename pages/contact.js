@@ -1,0 +1,277 @@
+import PageBanner from "../src/components/PageBanner";
+import Layout from "../src/layout/Layout";
+const ContactUs = () => {
+  return (
+    <Layout>
+      <PageBanner pageName={"Contact Us"} />{" "}
+      <section className="contact-info-area rel z-1 pt-130 rpt-100">
+        <div className="container">
+          <div className="section-title contact-title mb-50 wow fadeInUp delay-0-2s">
+            <span className="sub-title mb-15">Get in Touch</span>
+            <h3>Need Consultations ?</h3>
+          </div>
+          <div className="row">
+            <div className="col-xl-4 col-md-6">
+              <div className="contact-info-item wow fadeInUp delay-0-4s">
+                <div className="icon">
+                  <img src="assets/images/contact/icon1.png" alt="Icon" />
+                </div>
+                <div className="content">
+                  <h4>Location</h4>
+                  <span>head office - Markhiya Doha, Qatar</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-xl-4 col-md-6">
+              <div className="contact-info-item wow fadeInUp delay-0-5s">
+                <div className="icon">
+                  <img src="assets/images/contact/icon2.png" alt="Icon" />
+                </div>
+                <div className="content">
+                  <h4>Email Us</h4>
+                  <a href="mailto:baladifreshqatar@gmail.com">
+                    baladifreshqatar@gmail.com
+                  </a>
+                  <br />
+                </div>
+              </div>
+            </div>
+            <div className="col-xl-4 col-md-6">
+              <div className="contact-info-item wow fadeInUp delay-0-6s">
+                <div className="icon">
+                  <img src="assets/images/contact/icon3.png" alt="Icon" />
+                </div>
+                <div className="content">
+                  <h4>Phone Us</h4>
+                  <a href="callto:71399855">71399855</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="contact-shapes">
+          <img
+            className="leafs"
+            src="assets/images/shapes/contact-leafs.png"
+            alt="Leafs"
+          />
+          <img
+            className="pumpkin"
+            src="assets/images/shapes/pumpkin.png"
+            alt="pumpkin"
+          />
+        </div>
+      </section>
+      {/* Contact Info End */}
+      {/* Contact From Start */}
+      <section className="contact-form-area rel z-1 pt-100 rpt-70 pb-130 rpb-100">
+        <div className="container">
+          <div className="row align-items-center">
+            <div className="col-lg-6">
+              <form
+                onSubmit={(e) => e.preventDefault()}
+                id="contactForm"
+                className="contact-form rmb-65 wow fadeInLeft delay-0-2s"
+                name="contactForm"
+                action="assets/php/form-process.php"
+                method="post"
+              >
+                <div className="section-title contact-title mb-55">
+                  <span className="sub-title mb-15">Contact With Us</span>
+                  <h3>Send Us Message</h3>
+                </div>
+                <div className="row">
+                  <div className="col-md-6">
+                    <div className="form-group">
+                      <input
+                        type="text"
+                        id="name"
+                        name="name"
+                        className="form-control"
+                        defaultValue=""
+                        placeholder="Full Name"
+                        required=""
+                        data-error="Please enter your name"
+                      />
+                      <div className="help-block with-errors" />
+                    </div>
+                  </div>
+                  <div className="col-md-6">
+                    <div className="form-group">
+                      <input
+                        type="text"
+                        id="phone"
+                        name="phone"
+                        className="form-control"
+                        defaultValue=""
+                        placeholder="Phone Number"
+                        required=""
+                        data-error="Please enter your Phone Number"
+                      />
+                      <div className="help-block with-errors" />
+                    </div>
+                  </div>
+                  <div className="col-md-12">
+                    <div className="form-group">
+                      <input
+                        type="email"
+                        id="email"
+                        name="email"
+                        className="form-control"
+                        defaultValue=""
+                        placeholder="Email Address"
+                        required=""
+                        data-error="Please enter your Address"
+                      />
+                      <div className="help-block with-errors" />
+                    </div>
+                  </div>
+
+                  {/* New Dropdown for Branches */}
+                  <div className="col-md-12 mb-20">
+                    <div className="form-group">
+                      <select key={"branch"} name="branch" id="branch-dropdown">
+                        <option key="2" value="branch1">
+                          {"Fereej Al Kulaib (HQ)"}
+                        </option>
+                        <option key="3" value="branch2">
+                          {"Al Wuiker"}
+                        </option>
+                        <option key="4" value="branch3">
+                          {"Al Nasr"}
+                        </option>
+                        <option key="5" value="branch4">
+                          {"Al Meshaf"}
+                        </option>
+                        <option key="6" value="branch5">
+                          {"Al Shafi Street"}
+                        </option>
+                      </select>
+                      <div className="help-block with-errors" />
+                    </div>
+                  </div>
+
+                  <div className="col-md-12">
+                    <div className="form-group">
+                      <textarea
+                        name="message"
+                        id="message"
+                        className="form-control"
+                        rows={4}
+                        placeholder="Write Message"
+                        required=""
+                        data-error="Please enter your Message"
+                        defaultValue={""}
+                      />
+                      <div className="help-block with-errors" />
+                    </div>
+                  </div>
+                  <div className="col-md-12">
+                    <div className="form-group mb-0">
+                      <button type="submit" className="theme-btn style-two">
+                        Send Message
+                        <i className="fas fa-angle-double-right" />
+                      </button>
+                      <div id="msgSubmit" className="hidden" />
+                    </div>
+                  </div>
+                </div>
+              </form>
+              <img
+                className="two-leaf"
+                src="assets/images/contact/map-img.png"
+                alt="Leaf"
+              />
+            </div>
+
+            <div className="col-lg-6">
+              <div className="contact-right-image wow fadeInRight delay-0-4s">
+                <img
+                  src="assets/images/contact/contact-right.png"
+                  alt="Contact From"
+                />
+                <div className="d-flex flex-column pt-100">
+                  <h2>Our Branches</h2>
+                  <a
+                    href="https://www.google.com/maps?q=25.3107042,51.4878621&z=17&hl=en"
+                    target="_blank"
+                    style={{
+                      fontSize: "20px",
+                      paddingBlock: "10px",
+                    }}
+                  >
+                    {"Fereej Al Kulaib (HQ)"}
+                  </a>
+                  <a
+                    href="https://www.google.com/maps/place/25%C2%B009'27.9%22N+51%C2%B032'48.7%22E/@25.1577366,51.54428,17z/data=!3m1!4b1!4m4!3m3!8m2!3d25.1577366!4d51.5468549?hl=en&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D"
+                    target="_blank"
+                    style={{
+                      fontSize: "20px",
+                      paddingBlock: "10px",
+                    }}
+                  >
+                    {"Al Wuiker"}
+                  </a>
+                  <a
+                    href="https://maps.google.com/maps?q=25.2781933%2C51.4991044&z=17&hl=en"
+                    target="_blank"
+                    style={{
+                      fontSize: "20px",
+                      paddingBlock: "10px",
+                    }}
+                  >
+                    {"Al Nasr"}
+                  </a>
+                  <a
+                    href="https://www.google.com/maps?q=25.17794418334961,51.56608581542969&z=17&hl=en"
+                    target="_blank"
+                    style={{
+                      fontSize: "20px",
+                      paddingBlock: "10px",
+                    }}
+                  >
+                    {"Al Meshaf"}
+                  </a>
+                  <a
+                    href="https://maps.google.com/maps?q=25.299415588378906%2C51.42044448852539&z=17&hl=en"
+                    target="_blank"
+                    style={{
+                      fontSize: "20px",
+                      paddingBlock: "10px",
+                    }}
+                  >
+                    {"Al Shafi Street"}
+                  </a>
+                </div>
+                <img
+                  className="bg"
+                  src="assets/images/contact/contact-right-bg.png"
+                  alt="Contact From BG"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="contact-shapes">
+          <img
+            className="leaf"
+            src="assets/images/shapes/leaf-1.png"
+            alt="Leaf"
+          />
+          <img
+            className="shape"
+            src="assets/images/shapes/contact-shape.png"
+            alt="Shape"
+          />
+          <img
+            className="two-leaf"
+            src="assets/images/shapes/two-lear.png"
+            alt="Leaf"
+          />
+        </div>
+      </section>
+    </Layout>
+  );
+};
+export default ContactUs;
