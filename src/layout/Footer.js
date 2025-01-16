@@ -94,16 +94,19 @@ const DefaultFooter = () => (
             <h4 className="footer-title">Quick Links</h4>
             <ul>
               <li>
+                <Link href="/">
+                  <a>Home</a>
+                </Link>
+              </li>
+              <li>
                 <Link href="/about">
                   <a>About Us</a>
                 </Link>
               </li>
-              {/* <li>
-                <Link href="/contact">Documentation</Link>
-              </li> */}
+
               <li>
-                <Link href="/services">
-                  <a>Services</a>
+                <Link href="/products">
+                  <a>Products</a>
                 </Link>
               </li>
               {/* <li>
@@ -114,11 +117,11 @@ const DefaultFooter = () => (
                   <a>Our Projects</a>
                 </Link>
               </li> */}
-              {/* <li>
+              <li>
                 <Link href="/shop-grid">
-                  <a>Best Products</a>
+                  <a>Shop</a>
                 </Link>
-              </li> */}
+              </li>
               {/* <li>
                 <Link href="/farmers">
                   <a>Meet Farmers</a>
