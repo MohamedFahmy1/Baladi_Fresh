@@ -51,18 +51,6 @@ const DefaultFooter = () => (
       <div className="row justify-content-center">
         <div className="col-lg-4 col-md-6 order-md-2">
           <div className="footer-widget about-widget text-center">
-            <div className="footer-logo mb-30">
-              <Link href="/">
-                <a>
-                  <img
-                    src="assets/baladi-imgs/Logo/Logo - Main.svg"
-                    alt="Logo"
-                    height={100}
-                    width={100}
-                  />
-                </a>
-              </Link>
-            </div>
             <p>
               From our farms to your front door, enjoy the vitality of
               farm-fresh deliveries with Baladi Fresh.
@@ -72,19 +60,26 @@ const DefaultFooter = () => (
                 <a
                   target="_blank"
                   href="https://www.facebook.com.com/baladifreshqa"
+                  rel="noreferrer"
                 >
                   <i className="fab fa-facebook-f" />
                 </a>
-                <a href="https://x.com/baladifreshqa" target="_blank">
+                <a
+                  href="https://x.com/baladifreshqa"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <i className="fab fa-twitter" />
                 </a>
                 <a
                   href="https://www.snapchat.com/add/baladifreshqa"
+                  rel="noreferrer"
                   target="_blank"
                 >
                   <i className="fab fa-snapchat" />
                 </a>
                 <a
+                  rel="noreferrer"
                   target="_blank"
                   href="https://www.instagram.com/baladifreshqa"
                 >

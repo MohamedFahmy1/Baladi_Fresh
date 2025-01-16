@@ -8,7 +8,7 @@ const ShopGrid = () => {
       <PageBanner pageName={"Shop Grid"} />
       <section className="shop-page rel z-1 pt-120 rpt-90 pb-130 rpb-100">
         <div className="container">
-          <div className="shop-shorter rel z-3 pt-10 mb-40 wow fadeInUp delay-0-2s">
+          {/* <div className="shop-shorter rel z-3 pt-10 mb-40 wow fadeInUp delay-0-2s">
             <div className="products-dropdown">
               <select>
                 <option value="default" selected="">
@@ -32,7 +32,7 @@ const ShopGrid = () => {
                 </a>
               </li>
             </ul>
-          </div>
+          </div> */}
           <div className="row show-grid-row">
             <div className="col-xl-3 col-lg-4 col-sm-6">
               <div className="product-item wow fadeInUp delay-0-2s">

@@ -182,11 +182,11 @@ const About = () => {
       </section> */}
       {/* Gallery Area End */}
       {/* Team Area Start */}
-      <section className="team-area pt-50 rpt-20 pb-95 rpb-65">
+      {/* <section className="team-area pt-50 rpt-20 pb-95 rpb-65">
         <div className="container">
           <ExperienceTeam />
         </div>
-      </section>
+      </section> */}
       {/* Team Area End */}
       {/* About Section Start */}
       <section className="about-section-two rel z-1">
@@ -194,12 +194,12 @@ const About = () => {
           <div className="row">
             <div className="col-lg-6">
               <div className="about-two-image not-rounded wow fadeInUp delay-0-2s">
-                <img
+                {/* <img
                   className="image"
-                  src="assets/baladi-imgs/2. About Us Page/Company Building/1.png"
+                  src="assets/baladi-imgs/2. About Us Page/Company Building/1.webp"
                   alt="About"
                   style={{ width: "100%", borderRadius: "20px" }}
-                />
+                /> */}
               </div>
             </div>
             <div className="col-lg-6">
@@ -230,9 +230,9 @@ const About = () => {
           <div className="row">
             <div className="col-lg-6">
               <div className="about-two-image not-rounded wow fadeInUp delay-0-2s">
-                <img
+                {/* <img
                   className="image"
-                  src="assets/baladi-imgs/2. About Us Page/Company Building/2.png"
+                  src="assets/baladi-imgs/2. About Us Page/Company Building/2.webp"
                   alt="About"
                   style={{
                     width: "100%",
@@ -240,7 +240,7 @@ const About = () => {
                     borderRadius: "30px",
                     maxHeight: "600px",
                   }}
-                />
+                /> */}
               </div>
             </div>
             <div className="col-lg-6">
@@ -271,17 +271,17 @@ const About = () => {
           <div className="row">
             <div className="col-lg-6">
               <div className="about-two-image not-rounded wow fadeInUp delay-0-2s">
-                <img
+                {/* <img
                   className="image"
                   alt="About"
-                  src="assets/baladi-imgs/2. About Us Page/Company Building/3.png"
+                  src="assets/baladi-imgs/2. About Us Page/Company Building/3.webp"
                   style={{
                     width: "100%",
                     objectFit: "cover",
                     borderRadius: "30px",
                     maxHeight: "600px",
                   }}
-                />
+                /> */}
               </div>
             </div>
             <div className="col-lg-6">
@@ -343,7 +343,7 @@ const About = () => {
           </div>
           <hr />
         </div>
-        <FeedbackTwoSlider />
+        {/* <FeedbackTwoSlider /> */}
       </section>
       {/* Feedback Section End */}
       {/* Client Logo Section Start */}

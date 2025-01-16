@@ -54,7 +54,7 @@ export const HomeSlider1 = () => {
             </div>
           </div> */}
           <img
-            src="assets/baladi-imgs/1. Home Page/Website Banner/Banner - Light-01.jpg"
+            src="assets/baladi-imgs/1. Home Page/Website Banner/Banner - Light-01.webp"
             alt=""
             style={{
               width: "100%",
@@ -134,7 +134,7 @@ export const HomeSlider1 = () => {
             </div>
           </div> */}
           <img
-            src="assets/baladi-imgs/1. Home Page/Website Banner/Banner - Light-02.jpg"
+            src="assets/baladi-imgs/1. Home Page/Website Banner/Banner - Light-02.webp"
             style={{
               width: "100%",
               height: "100%",

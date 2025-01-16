@@ -41,6 +41,7 @@ const SearchBtn = () => {
     </Fragment>
   );
 };
+
 const DaskTopMenu = () => (
   <ul className="navigation clearfix d-none d-lg-flex">
     <li className="dropdown">
@@ -51,9 +52,6 @@ const DaskTopMenu = () => (
     </li>
     <li className="dropdown">
       <Link href="/portfolio-grid">Products</Link>
-    </li>
-    <li className="dropdown">
-      <Link href="/blog-grid">Blog</Link>
     </li>
     <li className="dropdown">
       <Link href="/shop-grid">Shop</Link>
@@ -139,19 +137,26 @@ const DefaultHeader = () => (
                       <a
                         target="_blank"
                         href="https://www.facebook.com.com/baladifreshqa"
+                        rel="noreferrer"
                       >
                         <i className="fab fa-facebook-f" />
                       </a>
-                      <a href="https://x.com/baladifreshqa" target="_blank">
+                      <a
+                        href="https://x.com/baladifreshqa"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
                         <i className="fab fa-twitter" />
                       </a>
                       <a
                         href="https://www.snapchat.com/add/baladifreshqa"
+                        rel="noreferrer"
                         target="_blank"
                       >
                         <i className="fab fa-snapchat" />
                       </a>
                       <a
+                        rel="noreferrer"
                         target="_blank"
                         href="https://www.instagram.com/baladifreshqa"
                       >
@@ -255,21 +260,28 @@ const Header1 = () => (
                     <div className="social-style-one">
                       <a
                         target="_blank"
+                        rel="noreferrer"
                         href="https://www.facebook.com.com/baladifreshqa"
                       >
                         <i className="fab fa-facebook-f" />
                       </a>
-                      <a href="https://x.com/baladifreshqa" target="_blank">
+                      <a
+                        href="https://x.com/baladifreshqa"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
                         <i className="fab fa-twitter" />
                       </a>
                       <a
                         href="https://www.snapchat.com/add/baladifreshqa"
+                        rel="noreferrer"
                         target="_blank"
                       >
                         <i className="fab fa-snapchat" />
                       </a>
                       <a
                         target="_blank"
+                        rel="noreferrer"
                         href="https://www.instagram.com/baladifreshqa"
                       >
                         <i className="fab fa-instagram" />
@@ -368,20 +380,27 @@ const Header2 = () => (
                     <div className="social-style-one">
                       <a
                         target="_blank"
+                        rel="noreferrer"
                         href="https://www.facebook.com.com/baladifreshqa"
                       >
                         <i className="fab fa-facebook-f" />
                       </a>
-                      <a href="https://x.com/baladifreshqa" target="_blank">
+                      <a
+                        href="https://x.com/baladifreshqa"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
                         <i className="fab fa-twitter" />
                       </a>
                       <a
                         href="https://www.snapchat.com/add/baladifreshqa"
+                        rel="noreferrer"
                         target="_blank"
                       >
                         <i className="fab fa-snapchat" />
                       </a>
                       <a
+                        rel="noreferrer"
                         target="_blank"
                         href="https://www.instagram.com/baladifreshqa"
                       >

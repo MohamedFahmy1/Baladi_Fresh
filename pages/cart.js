@@ -10,7 +10,7 @@ const CartPage = () => {
       title: "Orange Fruits", // "Cart Item 1",
       description: "Cart Item 1", // "Cart Item 1",
       quantity: 1,
-      image: "assets/images/widgets/product2.png",
+      image: "assets/images/widgets/product2.webp",
       price: 250,
     },
     {
@@ -18,7 +18,7 @@ const CartPage = () => {
       title: "Fresh Broccoli", // "Cart Item  2",
       description: "Cart Item 2", // "Cart Item 2",
       quantity: 1,
-      image: "assets/images/widgets/product3.png",
+      image: "assets/images/widgets/product3.webp",
       price: 250,
     },
     {
@@ -26,7 +26,7 @@ const CartPage = () => {
       title: "Bread Grains", // "Cart Item 3",
       description: "Cart Item 3", // "Cart Item 3",
       quantity: 1,
-      image: "assets/images/widgets/product4.png",
+      image: "assets/images/widgets/product4.webp",
       price: 250,
     },
   ]);

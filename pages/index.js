@@ -45,8 +45,8 @@ const Index = () => {
               At Baladi Fresh, we are dedicated to making fresh food affordable,
               convenient, and accessible for all. By working closely with local
               farms and trusted suppliers, we ensure every product we deliver is
-              fresh, high-quality, and at the peak of its flavor. Whether you're
-              a home cook or a business in need of bulk supplies, our easy
+              fresh, high-quality, and at the peak of its flavor. Whether you
+              are a home cook or a business in need of bulk supplies, our easy
               ordering system and reliable delivery service make grocery
               shopping hassle-free, with timely deliveries across Qatar. We also
               take pride in our in-house custom spice packaging, offering
@@ -276,7 +276,7 @@ const Index = () => {
                 </div>
                 <div className="image">
                   <img
-                    src="assets/baladi-imgs/1. Home Page/The Baladi Fresh Promise/Freshness Guaranteed.png"
+                    src="assets/baladi-imgs/1. Home Page/The Baladi Fresh Promise/Freshness Guaranteed.webp"
                     alt="Offer Banner"
                     style={{ borderRadius: "30px" }}
                   />
@@ -314,7 +314,7 @@ const Index = () => {
                 </div>
                 <div className="image">
                   <img
-                    src="assets/baladi-imgs/1. Home Page/The Baladi Fresh Promise/Wide Product Range.png"
+                    src="assets/baladi-imgs/1. Home Page/The Baladi Fresh Promise/Wide Product Range.webp"
                     alt="Offer Banner"
                     style={{ borderRadius: "30px" }}
                   />
@@ -351,7 +351,7 @@ const Index = () => {
                 </div>
                 <div className="image">
                   <img
-                    src="assets/baladi-imgs/1. Home Page/The Baladi Fresh Promise/Convenient Home Delivery.png"
+                    src="assets/baladi-imgs/1. Home Page/The Baladi Fresh Promise/Convenient Home Delivery.webp"
                     alt="Offer Banner"
                     style={{ borderRadius: "30px" }}
                   />
@@ -389,7 +389,7 @@ const Index = () => {
                 </div>
                 <div className="image">
                   <img
-                    src="assets/baladi-imgs/1. Home Page/The Baladi Fresh Promise/Spice Packaging Line.png"
+                    src="assets/baladi-imgs/1. Home Page/The Baladi Fresh Promise/Spice Packaging Line.webp"
                     alt="Offer Banner"
                     style={{ borderRadius: "30px" }}
                   />

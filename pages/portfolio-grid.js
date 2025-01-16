@@ -8,7 +8,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-79380313-9682469.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-79380313-9682469.webp",
     imageAlt: "A vibrant display of fresh vegetables and fruits",
     category: "Vegetables and Fruits",
     title: "Fresh Produce",
@@ -18,7 +18,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-aboodi-17975573.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-aboodi-17975573.webp",
     imageAlt: "An assortment of colorful vegetables",
     category: "Vegetables and Fruits",
     title: "Colorful Vegetables",
@@ -28,7 +28,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-alexey-komissarov-85164430-16812145.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-alexey-komissarov-85164430-16812145.webp",
     imageAlt: "A selection of fresh fruits on display",
     category: "Vegetables and Fruits",
     title: "Fresh Fruits",
@@ -38,7 +38,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-calwin-veigas-1270572734-24031498.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-calwin-veigas-1270572734-24031498.webp",
     imageAlt: "Various fruits and vegetables arranged in a market",
     category: "Vegetables and Fruits",
     title: "Market Display",
@@ -48,7 +48,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-chaquenha1974-13252175.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-chaquenha1974-13252175.webp",
     imageAlt: "A closeup of vibrant vegetables and herbs",
     category: "Vegetables and Fruits",
     title: "Vegetables and Herbs",
@@ -58,7 +58,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-danilson66-8639570.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-danilson66-8639570.webp",
     imageAlt: "A basket filled with fresh vegetables",
     category: "Vegetables and Fruits",
     title: "Vegetable Basket",
@@ -68,7 +68,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-enginakyurt-10112460.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-enginakyurt-10112460.webp",
     imageAlt: "Fresh vegetables on a wooden surface",
     category: "Vegetables and Fruits",
     title: "Vegetables on Wooden Table",
@@ -78,7 +78,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-enginakyurt-10899530.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-enginakyurt-10899530.webp",
     imageAlt: "Fruits and vegetables arranged neatly",
     category: "Vegetables and Fruits",
     title: "Neat Fruit and Veggie Display",
@@ -88,7 +88,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-enginakyurt-17923891.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-enginakyurt-17923891.webp",
     imageAlt: "A colorful selection of fresh produce",
     category: "Vegetables and Fruits",
     title: "Colorful Produce",
@@ -98,7 +98,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-filipp-romanovski-297235844-17275905.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-filipp-romanovski-297235844-17275905.webp",
     imageAlt: "Organic fruits and vegetables",
     category: "Vegetables and Fruits",
     title: "Organic Produce",
@@ -108,7 +108,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-javierbalseiro-10037512.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-javierbalseiro-10037512.webp",
     imageAlt: "Assorted vegetables arranged in baskets",
     category: "Vegetables and Fruits",
     title: "Basket Vegetables",
@@ -118,7 +118,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-lo-422811-2329440.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-lo-422811-2329440.webp",
     imageAlt: "Fruits and vegetables on display at a market",
     category: "Vegetables and Fruits",
     title: "Market Fruits and Vegetables",
@@ -128,7 +128,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-loren-biser-1425370-15236818.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-loren-biser-1425370-15236818.webp",
     imageAlt: "Fresh vegetables with vibrant colors",
     category: "Vegetables and Fruits",
     title: "Vibrant Vegetables",
@@ -138,7 +138,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-perfect-lens-18688797.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-perfect-lens-18688797.webp",
     imageAlt: "Fruits neatly arranged for display",
     category: "Vegetables and Fruits",
     title: "Neat Fruit Display",
@@ -148,7 +148,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-perfect-lens-19543593.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-perfect-lens-19543593.webp",
     imageAlt: "A mix of fruits and vegetables",
     category: "Vegetables and Fruits",
     title: "Mixed Produce",
@@ -158,7 +158,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-perfect-lens-20147576.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-perfect-lens-20147576.webp",
     imageAlt: "Vegetables on a textured surface",
     category: "Vegetables and Fruits",
     title: "Textured Surface Vegetables",
@@ -168,7 +168,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-pixabay-533280.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-pixabay-533280.webp",
     imageAlt: "Brightly colored fresh vegetables",
     category: "Vegetables and Fruits",
     title: "Bright Vegetables",
@@ -178,7 +178,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-polina-kovaleva-7511847.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-polina-kovaleva-7511847.webp",
     imageAlt: "Organic vegetables with a rustic touch",
     category: "Vegetables and Fruits",
     title: "Rustic Organic Vegetables",
@@ -188,7 +188,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-unaizat97-11725923.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-unaizat97-11725923.webp",
     imageAlt: "Fresh vegetables in a farmer's market",
     category: "Vegetables and Fruits",
     title: "Farmer's Market Vegetables",
@@ -198,7 +198,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-victorino-2286776.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/pexels-victorino-2286776.webp",
     imageAlt: "Vibrant vegetables displayed on a wooden surface",
     category: "Vegetables and Fruits",
     title: "Wooden Surface Vegetables",
@@ -208,7 +208,7 @@ const vegetableAndFruit = [
   {
     categories: "vegetables",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/vaibhav-salvi-kB2ve9SU1IU-unsplash.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Vegetable and Fruit/vaibhav-salvi-kB2ve9SU1IU-unsplash.webp",
     imageAlt: "Fresh vegetables in a basket",
     category: "Vegetables and Fruits",
     title: "Basket of Vegetables",
@@ -221,7 +221,7 @@ const bakeryProducts = [
   {
     categories: "bread",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/assorted-pastries-top-view-2024-10-21-09-30-18-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/assorted-pastries-top-view-2024-10-21-09-30-18-utc.webp",
     imageAlt: "Assorted pastries top view",
     category: "Bakery Products",
     title: "Assorted Pastries",
@@ -231,7 +231,7 @@ const bakeryProducts = [
   {
     categories: "bread",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/assortment-of-baked-bread-on-dark-background-2023-11-27-05-21-15-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/assortment-of-baked-bread-on-dark-background-2023-11-27-05-21-15-utc.webp",
     imageAlt: "Assortment of baked bread on dark background",
     category: "Bakery Products",
     title: "Baked Bread",
@@ -241,7 +241,7 @@ const bakeryProducts = [
   {
     categories: "bread",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/freshly-baked-croissants-2024-10-19-00-02-45-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/freshly-baked-croissants-2024-10-19-00-02-45-utc.webp",
     imageAlt: "Freshly baked croissants",
     category: "Bakery Products",
     title: "Fresh Croissants",
@@ -251,7 +251,7 @@ const bakeryProducts = [
   {
     categories: "bread",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/healthy-and-tasty-loaf-of-breads-baked-in-bakery-2023-11-27-04-50-58-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/healthy-and-tasty-loaf-of-breads-baked-in-bakery-2023-11-27-04-50-58-utc.webp",
     imageAlt: "Healthy loaf of bread",
     category: "Bakery Products",
     title: "Tasty Loaf",
@@ -261,7 +261,7 @@ const bakeryProducts = [
   {
     categories: "bread",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/healthy-buns-and-challahs-with-seeds-and-ears-of-g-2023-11-27-05-11-06-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/healthy-buns-and-challahs-with-seeds-and-ears-of-g-2023-11-27-05-11-06-utc.webp",
     imageAlt: "Healthy buns and challahs with seeds",
     category: "Bakery Products",
     title: "Healthy Buns",
@@ -271,7 +271,7 @@ const bakeryProducts = [
   {
     categories: "bread",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/homemade-pastry-for-holiday-2023-11-27-05-31-49-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/homemade-pastry-for-holiday-2023-11-27-05-31-49-utc.webp",
     imageAlt: "Homemade holiday pastry",
     category: "Bakery Products",
     title: "Holiday Pastry",
@@ -281,7 +281,7 @@ const bakeryProducts = [
   {
     categories: "bread",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/overhead-shot-of-pastry-croissants-and-buns-2023-11-27-05-30-17-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/overhead-shot-of-pastry-croissants-and-buns-2023-11-27-05-30-17-utc.webp",
     imageAlt: "Overhead shot of pastry croissants and buns",
     category: "Bakery Products",
     title: "Pastry & Buns",
@@ -291,7 +291,7 @@ const bakeryProducts = [
   {
     categories: "bread",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/puff-pastry-buns-2024-10-17-15-57-29-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/puff-pastry-buns-2024-10-17-15-57-29-utc.webp",
     imageAlt: "Puff pastry buns",
     category: "Bakery Products",
     title: "Puff Pastry",
@@ -301,7 +301,7 @@ const bakeryProducts = [
   {
     categories: "bread",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/stacked-chocolate-chip-cookies-isolated-on-white-b-2023-11-27-05-33-12-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/stacked-chocolate-chip-cookies-isolated-on-white-b-2023-11-27-05-33-12-utc.webp",
     imageAlt: "Stacked chocolate chip cookies",
     category: "Bakery Products",
     title: "Chocolate Chip Cookies",
@@ -311,7 +311,7 @@ const bakeryProducts = [
   {
     categories: "bread",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/sweet-pastries-desserts-dinner-catering-concept-2024-12-05-02-08-24-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/sweet-pastries-desserts-dinner-catering-concept-2024-12-05-02-08-24-utc.webp",
     imageAlt: "Sweet pastries for catering",
     category: "Bakery Products",
     title: "Sweet Pastries",
@@ -321,7 +321,7 @@ const bakeryProducts = [
   {
     categories: "bread",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/sweet-swirl-buns-with-raisins-for-breakfast-2023-11-27-05-07-38-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/sweet-swirl-buns-with-raisins-for-breakfast-2023-11-27-05-07-38-utc.webp",
     imageAlt: "Sweet swirl buns with raisins",
     category: "Bakery Products",
     title: "Swirl Buns",
@@ -331,7 +331,7 @@ const bakeryProducts = [
   {
     categories: "bread",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/sweets-2024-09-12-02-41-00-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Bakery Products/sweets-2024-09-12-02-41-00-utc.webp",
     imageAlt: "Various sweets",
     category: "Bakery Products",
     title: "Assorted Sweets",
@@ -344,7 +344,7 @@ const dairyProduct = [
   {
     categories: "milk",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/an-assortment-of-delicious-nutritious-cheeses-on-a-2023-11-27-05-11-06-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/an-assortment-of-delicious-nutritious-cheeses-on-a-2023-11-27-05-11-06-utc.webp",
     imageAlt: "An assortment of delicious and nutritious cheeses",
     category: "Dairy Products",
     title: "Nutritious Cheeses",
@@ -354,7 +354,7 @@ const dairyProduct = [
   {
     categories: "milk",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/assortment-dairy-products-2023-11-27-05-02-19-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/assortment-dairy-products-2023-11-27-05-02-19-utc.webp",
     imageAlt: "Assortment of dairy products",
     category: "Dairy Products",
     title: "Assorted Dairy Products",
@@ -364,7 +364,7 @@ const dairyProduct = [
   {
     categories: "milk",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/assortment-of-dairy-products-2023-11-27-04-58-08-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/assortment-of-dairy-products-2023-11-27-04-58-08-utc.webp",
     imageAlt: "Assortment of dairy products",
     category: "Dairy Products",
     title: "Dairy Product Assortment",
@@ -374,7 +374,7 @@ const dairyProduct = [
   {
     categories: "milk",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/assortment-of-fresh-dairy-products-bottle-milk-c-2024-07-11-00-39-36-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/assortment-of-fresh-dairy-products-bottle-milk-c-2024-07-11-00-39-36-utc.webp",
     imageAlt: "Fresh dairy products including bottles of milk",
     category: "Dairy Products",
     title: "Fresh Dairy Selection",
@@ -384,7 +384,7 @@ const dairyProduct = [
   {
     categories: "milk",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/dairy-products-on-grey-table-against-blue-backgrou-2023-11-27-05-04-40-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/dairy-products-on-grey-table-against-blue-backgrou-2023-11-27-05-04-40-utc.webp",
     imageAlt: "Dairy products on a grey table against a blue background",
     category: "Dairy Products",
     title: "Dairy Products Display",
@@ -394,7 +394,7 @@ const dairyProduct = [
   {
     categories: "milk",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/fermented-probiotic-dairy-drink-kefir-bottles-2024-10-20-04-00-25-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/fermented-probiotic-dairy-drink-kefir-bottles-2024-10-20-04-00-25-utc.webp",
     imageAlt: "Fermented probiotic dairy drink kefir in bottles",
     category: "Dairy Products",
     title: "Kefir Bottles",
@@ -404,7 +404,7 @@ const dairyProduct = [
   {
     categories: "milk",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/homemade-butter-recipe-mockup-2023-11-27-05-17-59-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/homemade-butter-recipe-mockup-2023-11-27-05-17-59-utc.webp",
     imageAlt: "Homemade butter recipe mockup",
     category: "Dairy Products",
     title: "Homemade Butter",
@@ -414,7 +414,7 @@ const dairyProduct = [
   {
     categories: "milk",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/set-of-various-fresh-dairy-products-2024-12-05-19-00-26-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Dairy Product/set-of-various-fresh-dairy-products-2024-12-05-19-00-26-utc.webp",
     imageAlt: "Set of various fresh dairy products",
     category: "Dairy Products",
     title: "Fresh Dairy Products Set",
@@ -427,7 +427,7 @@ const meatAndPoultry = [
   {
     categories: "meat",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/chicken-carcass-cut-into-pieces-cutting-board.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/chicken-carcass-cut-into-pieces-cutting-board.webp",
     imageAlt: "Chicken carcass cut into pieces on a cutting board",
     category: "Meat and Poultry",
     title: "Chicken Carcass Pieces",
@@ -437,7 +437,7 @@ const meatAndPoultry = [
   {
     categories: "meat",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/fish-and-prawns-for-sale-2024-06-07-23-11-46-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/fish-and-prawns-for-sale-2024-06-07-23-11-46-utc.webp",
     imageAlt: "Fish and prawns for sale",
     category: "Meat and Poultry",
     title: "Fish and Prawns",
@@ -447,7 +447,7 @@ const meatAndPoultry = [
   {
     categories: "meat",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/fresh-fish-and-clams-2023-11-27-05-30-42-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/fresh-fish-and-clams-2023-11-27-05-30-42-utc.webp",
     imageAlt: "Fresh fish and clams",
     category: "Meat and Poultry",
     title: "Fresh Fish and Clams",
@@ -457,7 +457,7 @@ const meatAndPoultry = [
   {
     categories: "meat",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/fresh-fish-for-sale-at-a-market-2023-11-27-04-54-27-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/fresh-fish-for-sale-at-a-market-2023-11-27-04-54-27-utc.webp",
     imageAlt: "Fresh fish for sale at a market",
     category: "Meat and Poultry",
     title: "Fish Market",
@@ -467,7 +467,7 @@ const meatAndPoultry = [
   {
     categories: "meat",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/front-view-fresh-raw-red-meat-wooden-cutting-board-nude-color-towel-lemon-garlic-mixed-color-background.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/front-view-fresh-raw-red-meat-wooden-cutting-board-nude-color-towel-lemon-garlic-mixed-color-background.webp",
     imageAlt: "Fresh raw red meat on a cutting board with garlic and lemon",
     category: "Meat and Poultry",
     title: "Raw Red Meat",
@@ -477,7 +477,7 @@ const meatAndPoultry = [
   {
     categories: "meat",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/pexels-domenico-scaglione-276311971-28881691.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/pexels-domenico-scaglione-276311971-28881691.webp",
     imageAlt: "Various cuts of fresh meat",
     category: "Meat and Poultry",
     title: "Fresh Meat Cuts",
@@ -487,7 +487,7 @@ const meatAndPoultry = [
   {
     categories: "meat",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/pexels-filirovska-7140306.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/pexels-filirovska-7140306.webp",
     imageAlt: "Raw poultry on a wooden surface",
     category: "Meat and Poultry",
     title: "Raw Poultry",
@@ -497,7 +497,7 @@ const meatAndPoultry = [
   {
     categories: "meat",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/pexels-nc-farm-bureau-mark-7163989.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/pexels-nc-farm-bureau-mark-7163989.webp",
     imageAlt: "Freshly cut raw meat for sale",
     category: "Meat and Poultry",
     title: "Market Fresh Meat",
@@ -507,7 +507,7 @@ const meatAndPoultry = [
   {
     categories: "meat",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/raw-chicken-meat-white-background.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/raw-chicken-meat-white-background.webp",
     imageAlt: "Raw chicken meat on a white background",
     category: "Meat and Poultry",
     title: "Raw Chicken Meat",
@@ -517,7 +517,7 @@ const meatAndPoultry = [
   {
     categories: "meat",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/raw-chicken-tender-fry-cut-without-skin-arranged-wooden-board-garnished-with-coriander-leaves.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/raw-chicken-tender-fry-cut-without-skin-arranged-wooden-board-garnished-with-coriander-leaves.webp",
     imageAlt: "Raw chicken tenders garnished with coriander leaves",
     category: "Meat and Poultry",
     title: "Chicken Tenders",
@@ -527,7 +527,7 @@ const meatAndPoultry = [
   {
     categories: "meat",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/raw-chuck-eye-roll-steak-organic-beef-set-black-dark-stone-table-background.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/raw-chuck-eye-roll-steak-organic-beef-set-black-dark-stone-table-background.webp",
     imageAlt: "Raw chuck eye roll steak on a dark background",
     category: "Meat and Poultry",
     title: "Chuck Eye Steak",
@@ -537,7 +537,7 @@ const meatAndPoultry = [
   {
     categories: "meat",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/red-snapper-and-red-mullet-for-sale-2023-11-27-04-58-33-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/red-snapper-and-red-mullet-for-sale-2023-11-27-04-58-33-utc.webp",
     imageAlt: "Red snapper and red mullet for sale",
     category: "Meat and Poultry",
     title: "Red Snapper & Mullet",
@@ -547,7 +547,7 @@ const meatAndPoultry = [
   {
     categories: "meat",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/tasty-fish-and-seafood-2023-11-27-04-51-02-utc.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Meats and Poultry/tasty-fish-and-seafood-2023-11-27-04-51-02-utc.webp",
     imageAlt: "Tasty fish and seafood assortment",
     category: "Meat and Poultry",
     title: "Fish and Seafood",
@@ -560,7 +560,7 @@ const spicesAndCondiments = [
   {
     categories: "spices",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/closeup-shot-colorful-asian-spices-market-with-blurry.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/closeup-shot-colorful-asian-spices-market-with-blurry.webp",
     imageAlt: "Closeup shot of colorful Asian spices in a market",
     category: "Spices and Condiments",
     title: "Asian Spices Market",
@@ -570,7 +570,7 @@ const spicesAndCondiments = [
   {
     categories: "spices",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/different-types-spices-market-city-mombasa-kenya.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/different-types-spices-market-city-mombasa-kenya.webp",
     imageAlt: "Different types of spices in a market in Mombasa, Kenya",
     category: "Spices and Condiments",
     title: "Spices in Mombasa Market",
@@ -580,7 +580,7 @@ const spicesAndCondiments = [
   {
     categories: "spices",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/indian-colourful-spices-group-photo-four-basic-indian-spices-like-raw-red-chilli-turmeric-coriander-cumin-powder-selective-focus.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/indian-colourful-spices-group-photo-four-basic-indian-spices-like-raw-red-chilli-turmeric-coriander-cumin-powder-selective-focus.webp",
     imageAlt:
       "Indian colorful spices including red chili, turmeric, coriander, and cumin",
     category: "Spices and Condiments",
@@ -591,7 +591,7 @@ const spicesAndCondiments = [
   {
     categories: "spices",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/indian-essential-spices-terracotta-pots-arranged-textured-background-selective-focus.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/indian-essential-spices-terracotta-pots-arranged-textured-background-selective-focus.webp",
     imageAlt: "Indian essential spices in terracotta pots",
     category: "Spices and Condiments",
     title: "Terracotta Pot Spices",
@@ -601,7 +601,7 @@ const spicesAndCondiments = [
   {
     categories: "spices",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/indian-spices-white-wooden-box-with-cells-selective-focus (1).jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/indian-spices-white-wooden-box-with-cells-selective-focus (1).webp",
     imageAlt: "Indian spices in a white wooden box with cells",
     category: "Spices and Condiments",
     title: "Spices in Wooden Box",
@@ -611,7 +611,7 @@ const spicesAndCondiments = [
   {
     categories: "spices",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/indian-spices-white-wooden-box-with-cells-selective-focus.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/indian-spices-white-wooden-box-with-cells-selective-focus.webp",
     imageAlt: "Indian spices in a wooden box, top view",
     category: "Spices and Condiments",
     title: "Indian Spices Box",
@@ -621,7 +621,7 @@ const spicesAndCondiments = [
   {
     categories: "spices",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/organised-filled-spice-jars.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/organised-filled-spice-jars.webp",
     imageAlt: "Organized jars filled with spices",
     category: "Spices and Condiments",
     title: "Organized Spice Jars",
@@ -631,7 +631,7 @@ const spicesAndCondiments = [
   {
     categories: "spices",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/pexels-martabranco-23020460.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/pexels-martabranco-23020460.webp",
     imageAlt: "Various spices on a wooden surface",
     category: "Spices and Condiments",
     title: "Spices on Wooden Surface",
@@ -641,7 +641,7 @@ const spicesAndCondiments = [
   {
     categories: "spices",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/pexels-shantanu-pal-938952-2802527.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/pexels-shantanu-pal-938952-2802527.webp",
     imageAlt: "A variety of colorful spices displayed neatly",
     category: "Spices and Condiments",
     title: "Colorful Spices",
@@ -651,7 +651,7 @@ const spicesAndCondiments = [
   {
     categories: "spices",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/spices-seasonings-wooden-table.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/spices-seasonings-wooden-table.webp",
     imageAlt: "Spices and seasonings on a wooden table",
     category: "Spices and Condiments",
     title: "Spices on Wooden Table",
@@ -661,7 +661,7 @@ const spicesAndCondiments = [
   {
     categories: "spices",
     imageSrc:
-      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/spices-spicy-seasonings-wooden-box-top-view-horizontal.jpg",
+      "assets/baladi-imgs/3. Product Page/Product Pictures/Spices and Condiments/spices-spicy-seasonings-wooden-box-top-view-horizontal.webp",
     imageAlt: "Spices and seasonings in a wooden box, top view",
     category: "Spices and Condiments",
     title: "Seasonings in Wooden Box",
