@@ -90,7 +90,7 @@ const DefaultFooter = () => (
           </div>
         </div>
         <div className="col-lg-4 col-md-6 order-md-1">
-          <div className="footer-widget menu-widget two-column">
+          <div className="footer-widget menu-widget one-column">
             <h4 className="footer-title">Quick Links</h4>
             <ul>
               <li>
