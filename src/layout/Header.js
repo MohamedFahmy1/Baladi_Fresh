@@ -116,12 +116,6 @@ const DefaultHeader = () => (
                     <i className="far fa-clock" /> <b>Working Hours :</b> Monday
                     - Friday, 08 am - 05 pm
                   </li>
-                  <li>
-                    <i className="far fa-envelope" /> <b>Email Us :</b>{" "}
-                    <a href="mailto:baladifreshqatar@gmail.com">
-                      baladifreshqatar@gmail.com
-                    </a>
-                  </li>
                 </ul>
               </div>
             </div>
@@ -238,12 +232,6 @@ const Header1 = () => (
               <div className="top-left">
                 <ul>
                   <li>
-                    <i className="far fa-envelope" /> <b>Email Us :</b>{" "}
-                    <a href="mailto:baladifreshqatar@gmail.com">
-                      baladifreshqatar@gmail.com
-                    </a>
-                  </li>
-                  <li>
                     <i className="far fa-clock" /> <b>Working Hours :</b> 24 / 7
                   </li>
                 </ul>
@@ -357,18 +345,6 @@ const Header2 = () => (
       <div className="container">
         <div className="header-top bg-light-green text-white py-10">
           <div className="row">
-            <div className="col-xl-7 col-lg-6">
-              <div className="top-left">
-                <ul>
-                  <li>
-                    <i className="far fa-envelope" /> <b>Email Us :</b>{" "}
-                    <a href="mailto:baladifreshqatar@gmail.com">
-                      baladifreshqatar@gmail.com
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
             <div className="col-xl-5 col-lg-6">
               <div className="top-right text-lg-right">
                 <ul>

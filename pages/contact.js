@@ -199,6 +199,7 @@ const ContactUs = () => {
                       fontSize: "20px",
                       paddingBlock: "10px",
                     }}
+                    rel="noreferrer"
                   >
                     {"Fereej Al Kulaib (HQ)"}
                   </a>
@@ -209,6 +210,7 @@ const ContactUs = () => {
                       fontSize: "20px",
                       paddingBlock: "10px",
                     }}
+                    rel="noreferrer"
                   >
                     {"Al Wuiker"}
                   </a>
@@ -219,6 +221,7 @@ const ContactUs = () => {
                       fontSize: "20px",
                       paddingBlock: "10px",
                     }}
+                    rel="noreferrer"
                   >
                     {"Al Nasr"}
                   </a>
@@ -229,6 +232,7 @@ const ContactUs = () => {
                       fontSize: "20px",
                       paddingBlock: "10px",
                     }}
+                    rel="noreferrer"
                   >
                     {"Al Meshaf"}
                   </a>
@@ -239,6 +243,7 @@ const ContactUs = () => {
                       fontSize: "20px",
                       paddingBlock: "10px",
                     }}
+                    rel="noreferrer"
                   >
                     {"Al Shafi Street"}
                   </a>
